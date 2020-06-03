@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="mult_x">MULT(x)</string>
+    <string name="add">ADD(+)</string>
+    <string name="sub">SUB(-)</string>
+    <string name="div">DIV(/)</string>
+    <string name="answer">ANSWER</string>
+    <string name="_0">0</string>
+    <string name="clear">Clear</string>
+</resources>
